@@ -5,12 +5,13 @@ A sorting algorithm is a method that arranges the elements of a list into a spec
 
 Our sorting visualizer will demonstrate the workings of the following sorting algorithms:
 
-Selection Sort
-Insertion Sort
-Bubble Sort
-Merge Sort
-Quick Sort
-Heap Sort
+1.Selection Sort
+2.Insertion Sort
+3.Bubble Sort
+4.Merge Sort
+5.Quick Sort
+6.Heap Sort
+
 The visualizer will handle a fixed list size of 130 elements. Users will have the ability to randomize the list and choose any of the aforementioned sorting algorithms to apply. Each algorithm will sort the elements in ascending order.
 
 It is important to note that the visual representation of sorting times in this project does not accurately reflect the true time complexities of the algorithms. To ensure that faster algorithms such as Merge Sort are properly visualized, we have introduced deliberate delays. This allows users to better observe and understand the sorting process for each algorithm, even those that typically operate at higher speeds.
