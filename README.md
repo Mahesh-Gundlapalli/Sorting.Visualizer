@@ -25,7 +25,7 @@ This is a sorting algorithms visualizer, so it should be able to show more regar
 ### Available Controls:
 
 - Press `0` to generate a new randomized list.
-Press `1` to start the Selection Sort algorithm.
+- Press `1` to start the Selection Sort algorithm.
 - Press `2` to start the Insertion Sort algorithm.
 - Press `3` to start the Bubble Sort algorithm.
 - Press `4` to start the Merge Sort algorithm.
