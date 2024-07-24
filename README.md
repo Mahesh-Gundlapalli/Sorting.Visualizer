@@ -17,3 +17,18 @@ The visualiser is going to use a fixed list size of 130 elements. There will be 
 It's worth noting that this project's visualization for the sorting times doesn't represent the real time complexities of these algorithms. Particularly, intentional delays have been introduced in this visualization so that even quicker algorithms like Merge Sort are more appropriately visualized. This will make it easier for a user to view and understand the sort execution for each algorithm involved, even for those at higher speeds.
 
 This is a sorting algorithms visualizer, so it should be able to show more regarding the functions of various sorting algorithms and what makes them superior or inferior compared to each other in terms of efficiency and complexity.
+
+# Usage
+
+**Warning:** Giving repetitive commands may cause latency and the visualizer may behave unexpectedly. Please ensure that a command has finished executing before issuing a new one.
+
+### Available Controls:
+
+- Press `0` to generate a new randomized list.
+- Press `1` to start the Selection Sort algorithm.
+- Press `2` to start the Insertion Sort algorithm.
+- Press `3` to start the Bubble Sort algorithm.
+- Press `4` to start the Merge Sort algorithm.
+- Press `5` to start the Quick Sort algorithm.
+- Press `6` to start the Heap Sort algorithm.
+- Press `q` to exit the Sorting Visualizer.
