@@ -32,3 +32,6 @@ This is a sorting algorithms visualizer, so it should be able to show more regar
 - Press `5` to start the Quick Sort algorithm.
 - Press `6` to start the Heap Sort algorithm.
 - Press `q` to exit the Sorting Visualizer.
+
+## Samples
+
