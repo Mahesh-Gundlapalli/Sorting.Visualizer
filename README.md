@@ -1,9 +1,9 @@
 # Sorting_Visualizer
-Visualization of Sorting Algorithms in C++ with SDL2 Library.
+Implementation of Sorting Algorithms Visualization using C++ and SDL2 Library.
 
-A sorting algorithm is a method that arranges the elements of a list into a specific order. Although numerous sorting algorithms exist, only a few are widely used in practical implementations due to their efficiency and effectiveness. In this project, we will create a sorting visualizer using the SDL2 Library in C++. This visualizer will help us understand the functioning of several key sorting algorithms by providing a visual representation of the sorting process.
+A sorting algorithm is a procedure applied to arrange the elements in a given list in a particular order. Many algorithms exist for the process of sorting, but only a few out of these are applicable in practice due to their time and space efficiency. In this assignment, we are going to be implementing an SDL2 Library-based sorting visualizer in C++. It will help us in understanding how some of the crucial sorting algorithms work by providing a view of the whole sorting process.
 
-Our sorting visualizer will demonstrate the workings of the following sorting algorithms:
+Our sorting visualiser is going to illustrate the working of the following sorting algorithms :
 
 1. Selection Sort  
 2. Insertion Sort  
@@ -12,15 +12,8 @@ Our sorting visualizer will demonstrate the workings of the following sorting al
 5. Quick Sort  
 6. Heap Sort  
 
-The visualizer will handle a fixed list size of 130 elements. Users will have the ability to randomize the list and choose any of the aforementioned sorting algorithms to apply. Each algorithm will sort the elements in ascending order.
+The visualiser is going to use a fixed list size of 130 elements. There will be options for the user to randomise the list and select any of the above-mentioned sorting algorithms for implementation. Each algorithm will carry out the sorting in non-decreasing order.
 
-It is important to note that the visual representation of sorting times in this project does not accurately reflect the true time complexities of the algorithms. To ensure that faster algorithms such as Merge Sort are properly visualized, we have introduced deliberate delays. This allows users to better observe and understand the sorting process for each algorithm, even those that typically operate at higher speeds.
+It's worth noting that this project's visualization for the sorting times doesn't represent the real time complexities of these algorithms. Particularly, intentional delays have been introduced in this visualization so that even quicker algorithms like Merge Sort are more appropriately visualized. This will make it easier for a user to view and understand the sort execution for each algorithm involved, even for those at higher speeds.
 
-Through this visualizer, users can gain a deeper understanding of how different sorting algorithms operate and how they compare to each other in terms of efficiency and complexity.
-
-
-
-
-
-
-
+This is a sorting algorithms visualizer, so it should be able to show more regarding the functions of various sorting algorithms and what makes them superior or inferior compared to each other in terms of efficiency and complexity.
