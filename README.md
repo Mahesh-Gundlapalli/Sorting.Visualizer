@@ -5,7 +5,7 @@ A sorting algorithm is a method that arranges the elements of a list into a spec
 
 Our sorting visualizer will demonstrate the workings of the following sorting algorithms:
 
-1.Selection Sort
+1.Selection Sort /n
 2.Insertion Sort
 3.Bubble Sort
 4.Merge Sort
