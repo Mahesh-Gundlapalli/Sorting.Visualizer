@@ -22,7 +22,7 @@ This is a sorting algorithms visualizer, so it should be able to show more regar
 
 ## How to Run
 
-#### Option 1: Run from the Release
+### Option 1: Run from the Release
 
 1. **Download the Release:**
    - Obtain the release version of Sorting Visualizer.
@@ -30,7 +30,7 @@ This is a sorting algorithms visualizer, so it should be able to show more regar
 2. **Run the Application:**
    - Execute the `Sorting Visualizer.exe` file.
 
-#### Option 2: Run from the Source Code
+### Option 2: Run from the Source Code
 
 1. **Download the Source Code:**
    - Obtain the `Sorting Visualizer.cpp` file from the repository.
