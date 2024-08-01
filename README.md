@@ -34,7 +34,8 @@ This is a sorting algorithms visualizer, so it should be able to show more regar
 ### Option 2: Run from the Source Code
 
 1. **Download the Source Code:**
-   - Obtain  [C++ code for Sorting_visualiser](https://github.com/user-attachments/files/16459136/Sorting_visualiser.zip).
+   - Obtain  [C++ code for Sorting_visualiser](https://github.com/user-attachments/files/16459277/Sorting.Visualizer.zip)
+     
 
 
 2. **Setup SDL2 Library:**
