@@ -63,6 +63,8 @@ This is a sorting algorithms visualizer, so it should be able to show more regar
 
 ## Samples
 
+- Selection Sort
 ![example1](https://github.com/user-attachments/assets/2bedff7c-1cb1-49ba-9a94-221dc5fa9405)
 
+- Merge Sort
 ![example2](https://github.com/user-attachments/assets/b58074a6-43bb-4d1f-9879-af2276c5452f)
