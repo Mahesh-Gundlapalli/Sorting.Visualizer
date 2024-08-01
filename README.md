@@ -26,9 +26,12 @@ This is a sorting algorithms visualizer, so it should be able to show more regar
 
 1. **Download the Release:**
    - Obtain the release version of Sorting Visualizer.
+[Sorting.Visualizer.zip](https://github.com/user-attachments/files/16456377/Sorting.Visualizer.zip)
 
 2. **Run the Application:**
    - Execute the `Sorting Visualizer.exe` file.
+[Uploading Sorting Visualizer.cpp…]()
+
 
 ### Option 2: Run from the Source Code
 
